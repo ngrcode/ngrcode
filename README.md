@@ -4,8 +4,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ngrcode&show_icons=true&theme=radical)
 
-![Anurag's GitHub stats](https://github.com/ngrcode/ngrcode/blob/main/README.md/api?username=ngrcode&show_icons=true&theme=radical)
-
 
 
 <img src='https://github-readme-stats.vercel.app/api?username=ngrcode&show_icons=true&theme=radical' width='47%' align='left' >
