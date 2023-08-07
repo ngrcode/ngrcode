@@ -3,7 +3,7 @@
 ![Anurag's GitHub stats](https://readmestats.999857.xyz/api?username=ngrcode&show_icons=true&theme=radical)
 
 
-![Anurag's GitHub stats](https://github.com/PencilNavigator/readme-stats-URL//api?username=ngrcode&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github.com/PencilNavigator/readme-stats-URL/api?username=ngrcode&show_icons=true&theme=radical)
 
 
 
