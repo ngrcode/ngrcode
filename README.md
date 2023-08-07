@@ -3,10 +3,6 @@
 ![Anurag's GitHub stats](https://readmestats.999857.xyz/api?username=ngrcode&show_icons=true&theme=radical)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngrcode&show_icons=true&theme=radical)
-
-
-![Anurag's GitHub stats](https://github.com/ngrcode/ngrcode/blob/main/README.md/api?username=ngrcode&show_icons=true&theme=radical)
 
 
 
