@@ -1,1 +1,2 @@
+# Hi there , I'm Negar! 🖐
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngrcode&show_icons=true&theme=radical)
